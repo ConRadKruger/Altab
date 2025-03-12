@@ -1,0 +1,33 @@
+<div class="fixed-parallax">
+    <div class="image" style="background-image: url('{{image}}');">
+        <h1 class="titre">{{jeuxVideo}}</h1>
+    </div>
+    <div class="content">
+        <br><p><strong>{{Titre}}</strong>{{Precision}}<strong>{{jeuxVideo}}</strong>.</p><br>
+        <div class="spotify-container">
+        <div class="spotify-player">
+            <!-- Header : pochette et infos -->
+            <div class="track-info">
+                <img src="{{icon}}" alt="Album Cover" class="album-cover">
+                <div class="text-info">
+                    <a href="{{Spotify}}" target="_blank" class="track-title scrolling">{{Titre}}</a>
+                    <a href="{{artisteSpotify}}" target="_blank" class="track-artist">{{artiste}}</a>
+                </div>
+            </div>
+            
+            <!-- Contrôles et audio -->
+            <audio class="audio" src="{{audio}}"></audio>
+            <div class="controls">
+                <button class="play-btn">▶</button>
+                <input type="range" value="0" class="progress-bar">
+            </div>
+    
+            <!-- Liens dynamiques vers Spotify -->
+            <div class="spotify-links">
+                <a href="{{Spotify}}" target="_blank">Ouvrir dans Spotify</a>
+            </div>
+        </div>
+        </div>
+        <br><p>{{explications}}</p><br>
+    </div>
+</div>

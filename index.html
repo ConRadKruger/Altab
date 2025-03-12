@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Altab</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="partie"></div>
+        <button class="popup-open">✏️</button>
+        <div id="popup-overlay">
+            <div class="popup-content">     
+                <form id="contributif-form">
+                    
+                    <h2>Proposez un album ou morceau</h2>
+
+                    <label for="email">Enregistrez votre email pour pouvoir proposer.</label>
+                    <input type="email" id="mail" required><br>
+
+                    <label for="jeuxVideo">Jeux vidéo d'origine</label>
+                    <input type="text" id="game" required><br>
+                    
+                    <label for="titre">Titre du morceau</label>
+                    <input type="text" id="title" required><br>
+
+                    <label for="artiste">Nom de l'artiste</label>
+                    <input type="text" id="name"><br>
+                    
+                    <label for="audio">URL de l'extrait</label>
+                    <input type="url" id="audio" required><br>
+                    
+                    <label for="image">URL de l'image</label>
+                    <input type="url" id="image" required><br>
+
+                    <label for="icon">URL de l'icon</label>
+                    <input type="url" id="icon" required><br>
+                    
+                    <label for="audio">URL Spotify</label>
+                    <input type="url" id="spotify" required><br>
+                    
+                    <label for="explications">Explications du choix</label>
+                    <textarea id="explications"></textarea><br>
+
+                    <button id="submit" type="button" class="submit">Proposer</button>
+                </form>
+                <button class="popup-exit">❌</button>
+            </div>
+        </div>
+    <div id="section-container"></div>
+
+    <script src="data/data.json"></script>
+    <script src="js/script.js" type="module"></script>
+</body>
+</html>

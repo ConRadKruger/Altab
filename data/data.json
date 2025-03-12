@@ -1,0 +1,79 @@
+[
+    {
+        "jeuxVideo" : "Minecraft", 
+        "image" : "media/images/Minecraft.webp",
+        "Titre" : "Sweden",
+        "artiste" : "C418",
+        "artisteSpotify" : "https://open.spotify.com/intl-fr/artist/4uFZsG1vXrPcvnZ4iSQyrx?si=J3kb9XHDS9G9iiYnaHjscg",
+        "icon" : "media/images/icon_minecraft.jpg",
+        "Precision" : " est l'une des très nombreuses bandes originale de ",
+        "explications" : "Sweden est une musique douce et parfaite pour agrémenter une session de jeux calme et agréable. Cette musique peut être laissé en arrière plan, elle est discrète tout en restant magnifique.",
+        "audio" : "media/audio/sweden.mp3",
+        "Spotify" : "https://open.spotify.com/intl-fr/track/4NsPgRYUdHu2Q5JRNgXYU5?si=e56dacca863f4222"
+    },
+    
+    {
+        "jeuxVideo" : "Cyberpunk 2077", 
+        "image" : "media/images/Cyberpunk.webp",
+        "Titre" : "I really want to stay at your house",
+        "artiste" : "Rosa Walton",
+        "artisteSpotify" : "https://open.spotify.com/intl-fr/artist/1X0HaTcdkHW7LviblBiEeq?si=YXp06se4STabmh-pncLJsQ",
+        "icon" : "media/images/icon_cyberpunk.jpg",
+        "Precision" : " est une bande originale de ",  
+        "explications" : "Cette musique est pleine de nostalgie et de regrets. Elle est marquante dans ça façon d'évoqué des sentiments chez les personnes qui l'écoute, surtout si ils ont vu la série. Cette musique ce déclenche aléatoirement dans le jeux et de manière douce.",
+        "audio" : "media/audio/i-really-want-to-stay-at-your-house.mp3",
+        "Spotify" : "https://open.spotify.com/intl-fr/track/7mykoq6R3BArsSpNDjFQTm?si=5a6f2d0d24ef4815"
+    },
+
+    {
+        "jeuxVideo" : "Helldivers 2", 
+        "image" : "media/images/Helldivers_2.webp",
+        "Titre" : "A cup of liber-Tea",
+        "artiste" : "Wilbert Roget",
+        "artisteSpotify" : "https://open.spotify.com/intl-fr/artist/4b6Khs68thyzQrWRISZFrT?si=h9x8O4IdQH-LpkJYIG-7vQ",
+        "icon" : "media/images/icon_helldivers.jpg",
+        "Precision" : " apparait lors du lancement d'une mission dans ",  
+        "explications" : "Cette musique dynamique est parfaite pour galvaniser la personne l'écoutant. Elle est puissante et imposante. Elle peut faire penser à la Chevauchée des Walkyries et remplie dans son jeux vidéo le même usage.",
+        "audio" : "media/audio/a-cup-of-liber-tea.mp3",
+        "Spotify" : "https://open.spotify.com/intl-fr/track/75YxlcNtGs6icGnrTYulUg?si=337f05e5a7e64fba"
+    },
+    
+    {
+        "jeuxVideo" : "Fallout", 
+        "image" : "media/images/Fallout.webp",
+        "Titre" : "I don't want to set the world on fire",
+        "artiste" : "The Ink Spots",
+        "artisteSpotify" : "https://open.spotify.com/intl-fr/artist/5bOsFzuJ6QZMr86ezC4oXY?si=cwcQFe1tQm-sebb_cA9bFg",
+        "icon" : "media/images/icon_fallout.jpg",
+        "Precision" : " est une des bandes originale de ",  
+        "explications" : "Cette chanson rappelle une époque du passé dans c'est sonorités, elle sonne comme si elle était passé dans un gramophone. Cette impréssion est voulue car le jeux se déroule dans un univers entre futur et passé. En effet Le jeux se déroule l'année 2277 mais a des airs de 1960.",
+        "audio" : "media/audio/i-dont-want-to-set-the-world-on-fire.mp3",
+        "Spotify" : "https://open.spotify.com/intl-fr/track/777zXDJpBufzttU4AJ2dGO?si=78421c89e337410b"
+    },
+
+    {
+        "jeuxVideo" : "Portal 2", 
+        "image" : "media/images/Portal_2.webp",
+        "Titre" : "I want you gone",
+        "artiste" : "Valve",
+        "artisteSpotify" : "https://open.spotify.com/intl-fr/artist/7d58WZ8qQHy2Sm5p52V2NP?si=k0rG1C19Ry6KBxs6F9a9bg",
+        "icon" : "media/images/icon_portal.jpg",
+        "Precision" : " est la musique concluant ",   
+        "explications" : "Cette musique est le point final du jeux et très joyeuse dans ses sonnorités. Cependant elle exprime un adieux de la part du méchant du jeux. Il exprime ici un regret d'avoir perdu face au héro.",
+        "audio" : "media/audio/want-you-gone.mp3",
+        "Spotify" : "https://open.spotify.com/intl-fr/track/69t51B07WtKgWkQBBovqta?si=d09fa1b31e8841cc"
+    },
+ 
+    {
+        "jeuxVideo" : "Undertale", 
+        "image" : "media/images/Undertale.webp",
+        "Titre" : "Megalovania",
+        "artiste" : "Toby Fox",
+        "artisteSpotify" : "https://open.spotify.com/intl-fr/artist/57DlMWmbVIf2ssJ8QBpBau?si=uXjV_GymS46SnRk4wCSpVA",
+        "icon" : "media/images/icon_undertale.jpg",
+        "Precision" : " est la musique de boss de Sans dans ",  
+        "explications" : "Les sonnorités de cette musique sont énergiques et rapides. Elle a un tempo très rapide et une mélodie entrainante. Le jeux étant en pixel art elle fait penser à une musique rétro. Elle est présente pour motiver le joueurs, le mettre sous pression et l'exiter.",
+        "audio" : "media/audio/megalovania.mp3",
+        "Spotify" : "https://open.spotify.com/intl-fr/track/1J03Vp93ybKIxfzYI4YJtL?si=06c090a060b64c44"
+    }
+]
